@@ -1,2 +1,2 @@
-# scintific calculator
+# scientific calculator
 
